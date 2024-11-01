@@ -14,6 +14,10 @@ import Markov from 'markov-generator'
 // Импорт системных модулей
 import { readFileSync } from 'fs'
 
+import dotenv from 'dotenv';
+dotenv.config();
+
+
 // Импорт компонентов ядра
 import Logger from './logger.js'
 import Utils from './utils.js'
