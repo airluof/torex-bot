@@ -5,7 +5,7 @@
 # Настройки TG API
 longpoll:
   # Токен доступа
-  token: TOKEN
+  token: ${TELEGRAM_TOKEN}
 
 # Отправка сообщений
 messages:
