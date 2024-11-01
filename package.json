@@ -11,6 +11,7 @@
   "author": "foammys",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "markov-generator": "^1.2.3",
     "telegraf": "^4.16.3",
     "yaml": "^1.10.2"
